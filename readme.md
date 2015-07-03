@@ -1,1 +1,0 @@
-prog by pawel
